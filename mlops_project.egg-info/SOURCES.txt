@@ -1,0 +1,8 @@
+README.md
+setup.py
+mlops_project.egg-info/PKG-INFO
+mlops_project.egg-info/SOURCES.txt
+mlops_project.egg-info/dependency_links.txt
+mlops_project.egg-info/requires.txt
+mlops_project.egg-info/top_level.txt
+src/__init__.py
