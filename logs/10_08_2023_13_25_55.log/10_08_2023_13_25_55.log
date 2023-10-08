@@ -1,0 +1,9 @@
+[ 2023-10-08 13:25:55,142 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-08 13:25:55,155 ] 96 werkzeug - INFO -  * Debugger PIN: 639-468-944
+[ 2023-10-08 13:26:02,487 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:02] "GET / HTTP/1.1" 200 -
+[ 2023-10-08 13:26:08,027 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:08] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-10-08 13:26:19,493 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:19] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-10-08 13:26:19,527 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:26:19,527 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:26:19,548 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:26:19,612 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:26:19] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

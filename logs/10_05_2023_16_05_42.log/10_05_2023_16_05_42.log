@@ -1,0 +1,8 @@
+[ 2023-10-05 16:05:42,379 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-05 16:05:42,393 ] 96 werkzeug - INFO -  * Debugger PIN: 639-468-944
+[ 2023-10-05 16:05:45,929 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Oct/2023 16:05:45] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-10-05 16:05:45,966 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Oct/2023 16:05:45] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-10-05 16:05:45,969 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Oct/2023 16:05:45] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-10-05 16:05:46,000 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Oct/2023 16:05:46] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-10-05 16:05:46,086 ] 96 werkzeug - INFO - 127.0.0.1 - - [05/Oct/2023 16:05:46] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-10-05 16:06:13,083 ] 96 werkzeug - INFO -  * Detected change in '/Users/faraymajid/mlops_project/src/utils.py', reloading

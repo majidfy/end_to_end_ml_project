@@ -1,0 +1,20 @@
+[ 2023-10-08 13:16:35,156 ] 96 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.127:5000
+[ 2023-10-08 13:16:35,156 ] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[ 2023-10-08 13:16:35,157 ] 96 werkzeug - INFO -  * Restarting with stat
+[ 2023-10-08 13:16:36,028 ] 96 werkzeug - WARNING -  * Debugger is active!
+[ 2023-10-08 13:16:36,052 ] 96 werkzeug - INFO -  * Debugger PIN: 639-468-944
+[ 2023-10-08 13:16:51,995 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:51] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-10-08 13:16:52,049 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:16:52,049 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:16:52,069 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:16:52,194 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:52] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:16:54,904 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:54] "GET / HTTP/1.1" 200 -
+[ 2023-10-08 13:16:58,917 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:16:58] "GET /predictdata HTTP/1.1" 200 -
+[ 2023-10-08 13:17:08,688 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:17:08] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2023-10-08 13:17:08,716 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:17:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:17:08,718 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:17:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:17:08,736 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:17:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-10-08 13:17:08,789 ] 96 werkzeug - INFO - 127.0.0.1 - - [08/Oct/2023 13:17:08] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
