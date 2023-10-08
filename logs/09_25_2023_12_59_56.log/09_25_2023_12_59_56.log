@@ -1,9 +1,0 @@
-[ 2023-09-25 12:59:57,043 ] 159 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
-[ 2023-09-25 12:59:58,659 ] 24 root - INFO - Entered the data ingestion method
-[ 2023-09-25 12:59:58,666 ] 27 root - INFO - Read the dataset as DF
-[ 2023-09-25 12:59:58,671 ] 32 root - INFO - train test split initiated
-[ 2023-09-25 12:59:58,678 ] 38 root - INFO - ingestion of data is completed
-[ 2023-09-25 12:59:58,680 ] 60 root - INFO - read train and test data completed
-[ 2023-09-25 12:59:58,680 ] 61 root - INFO - obtaining preprocessing object
-[ 2023-09-25 12:59:58,680 ] 32 root - INFO - Numerical Feature encoding completed
-[ 2023-09-25 12:59:58,680 ] 42 root - INFO - Categorical Feature encoding completed

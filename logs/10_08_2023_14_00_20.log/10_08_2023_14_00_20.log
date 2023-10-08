@@ -1,3 +1,0 @@
-[ 2023-10-08 14:00:20,522 ] 96 werkzeug - WARNING -  * Debugger is active!
-[ 2023-10-08 14:00:20,538 ] 96 werkzeug - INFO -  * Debugger PIN: 639-468-944
-[ 2023-10-08 14:05:22,741 ] 96 werkzeug - INFO -  * Detected change in '/Users/faraymajid/mlops_project/src/pipelines/train_pipeline.py', reloading
